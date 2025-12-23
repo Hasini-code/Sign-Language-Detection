@@ -1,9 +1,8 @@
 __pycache__/
-venv/
-.env
 *.h5
 *.ckpt
 *.mp4
 *.avi
+venv/
+.env
 .ipynb_checkpoints/
-
